@@ -77,4 +77,4 @@ In this first assignment, we will focus on:
        ```
        to delete all volumes.
 
-1. Upload a link to your forked github repo on sakai
+1. Upload a link to your forked github repo on sakai.
